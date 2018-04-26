@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SensorEx</string>
+    <string name="expected">oczekiwany:</string>
+    <string name="result">wynik:</string>
+    <string name="losuj">Losuj kąt</string>
+    <string name="start">start</string>
+    <string name="przechyl">Przechyl telefon ekranem prostopadle do ziemi, \nprzesłoń czujnik odległości by zakończyć</string>
+    <string name="pomoc">pomoc</string>
+    <string name="goal">goal</string>
+</resources>
